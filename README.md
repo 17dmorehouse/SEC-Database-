@@ -14,6 +14,6 @@ o	Issues that are addressed are as followed.
 
 Features expected to be added in the future versions: 
 -	Multiple Treads to speed up the time it takes to collect the data
--	A overall score out of 100 to each company based on fundamental and forecasting data
+-	A overall score out of 100 to each company evaluating the companies health based on fundamental and forecasting data
 -	Interacting with Google Trend Rest API to find trend in popular google searches in a time frame and a group of companies
 -	Adding Sub-Industry groups and Sector to Company Information data table in MySQL
