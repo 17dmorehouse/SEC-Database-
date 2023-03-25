@@ -5,6 +5,7 @@ Notes of Interest:
 -	The user might have to change conditions of the MySQL local server to connect to their database 
 o	This code assumes that the local server is created with the conditions of the username : root  and password : password
 -	Note that the Functions file is changed to Functions – Copy. This is because this is a copy of the original file contains a personal API Key. In order to recreate this file the user must change the name of the file back to its original name “Functions” as well as creating their own API Key from the TD Developers website. 
+-	The users are expected to run the SEC Database File prior to any other files
 
 Limitations of the Code and Bugs: 
 -	With this current data set there are some bugs that have been patched or planning soon. For easier maintenance in GitHub this bugs and issues will being fixed and uploaded as a lump sum in the future when the next version of this code in completed. 
